@@ -2159,39 +2159,39 @@ body .bvi-body .bvi-show {
   -webkit-background-size: 100% 100%;
 }
 .bvi-images.bvi-images-cog {
-  background-image: url("../img/cog.svg");
+  background-image: url("https://grosso2020.github.io/button-visually-impaired-javascript/dist/img/cog.svg");
   background-repeat: no-repeat;
 }
 .bvi-images.bvi-images-eye-slash {
-  background-image: url("../img/eye-slash.svg");
+  background-image: url("https://grosso2020.github.io/button-visually-impaired-javascript/dist/img/eye-slash.svg");
   background-repeat: no-repeat;
 }
 .bvi-images.bvi-images-volume-up {
-  background-image: url("../img/volume-up.svg");
+  background-image: url("https://grosso2020.github.io/button-visually-impaired-javascript/dist/img/volume-up.svg");
   background-repeat: no-repeat;
 }
 .bvi-images.bvi-images-volume-off {
-  background-image: url("../img/volume-off.svg");
+  background-image: url("https://grosso2020.github.io/button-visually-impaired-javascript/dist/img/volume-off.svg");
   background-repeat: no-repeat;
 }
 .bvi-images.bvi-images-adjust {
-  background-image: url("../img/adjust.svg");
+  background-image: url("https://grosso2020.github.io/button-visually-impaired-javascript/dist/img/adjust.svg");
   background-repeat: no-repeat;
 }
 .bvi-images.bvi-images-minus-circle {
-  background-image: url("../img/minus-circle.svg");
+  background-image: url("https://grosso2020.github.io/button-visually-impaired-javascript/dist/img/minus-circle.svg");
   background-repeat: no-repeat;
 }
 .bvi-images.bvi-images-image {
-  background-image: url("../img/image.svg");
+  background-image: url("https://grosso2020.github.io/button-visually-impaired-javascript/dist/img/image.svg");
   background-repeat: no-repeat;
 }
 .bvi-images.bvi-images-minus {
-  background-image: url("../img/minus.svg");
+  background-image: url("https://grosso2020.github.io/button-visually-impaired-javascript/dist/img/minus.svg");
   background-repeat: no-repeat;
 }
 .bvi-images.bvi-images-eye {
-  background-image: url("../img/eye.svg");
+  background-image: url("https://grosso2020.github.io/button-visually-impaired-javascript/dist/img/eye.svg");
   background-repeat: no-repeat;
   fill: green;
 }
